@@ -2,7 +2,7 @@
 
 const itemData = {
     item1: {
-        name: 'Finalista 01',
+        name: 'Finalista 1',
         image: 'https://picsum.photos/seed/animal/250/200',
         photographer: 'John Doe',
         description: ' Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.',
@@ -11,7 +11,7 @@ const itemData = {
     item2: {
         name: 'Finalista 2',
         image: 'https://picsum.photos/seed/beach/250/200',
-        photographer: 'Jane Smith',
+        photographer: 'Luis Roca',
         description: 'Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
         score: 84
     },
